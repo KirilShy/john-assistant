@@ -1,6 +1,6 @@
 # John Assistant
 
-A modular AI assistant I’m building **from scratch** to learn AI/ML daily and keep a steady GitHub streak.  
+A modular AI assistant I’m building **from scratch**.
 Supports multi-turn chat, GUI, voice input (Whisper), and natural TTS (ElevenLabs). Answers are short by design.
 
 ---
