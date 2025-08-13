@@ -1,1 +1,6 @@
 config.json
+logs/*
+*.wav
+*.mp3
+.venv/
+__pycache__/
