@@ -97,4 +97,12 @@ python gui.py
   - one JSON per line with `session`, `role`, `content`, `ts`
 - Use these logs later to build datasets or fine-tune small components.
 
+<<<<<<< HEAD
 ---
+=======
+---
+- `/reload` button already present — add a Settings modal
+- Streaming responses in GUI (typewriter effect)
+- Plugin system for `/commands` (notes, timer, local search)
+- Cost/latency HUD under each reply
+>>>>>>> ea1d6e886b4da851ed2d9282cd0b19841819deb4
